@@ -1,3 +1,3 @@
 # dsmovie
 
-projeto composto por java no backend e react no front ent. Proposta de estrutura inicial para avaliações de filmes.
+projeto composto por java/jpa no backend e react/typescript no frontent. Proposta de estrutura inicial para avaliações de filmes.
